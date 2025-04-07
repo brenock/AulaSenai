@@ -4,4 +4,3 @@ material.pop(-1)
 material.remove('Estojo')
 print(material.pop())
 print(material)
-
